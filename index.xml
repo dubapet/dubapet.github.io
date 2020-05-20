@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DuBa Pet</title>
-    <link>/</link>
+    <link>https://dubapet.github.io/</link>
     <description>Recent content on DuBa Pet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 19 May 2020 12:30:01 +0600</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dubapet.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nosso Whatsapp</title>
-      <link>/nosso-whatsapp/</link>
+      <link>https://dubapet.github.io/nosso-whatsapp/</link>
       <pubDate>Tue, 19 May 2020 12:30:01 +0600</pubDate>
       
-      <guid>/nosso-whatsapp/</guid>
+      <guid>https://dubapet.github.io/nosso-whatsapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novo endereço</title>
-      <link>/novo-endereco/</link>
+      <link>https://dubapet.github.io/novo-endereco/</link>
       <pubDate>Mon, 18 May 2020 12:30:01 +0600</pubDate>
       
-      <guid>/novo-endereco/</guid>
+      <guid>https://dubapet.github.io/novo-endereco/</guid>
       <description>Já estamos atendendo em novo endereço. Marque um horário pro seu peludinho.</description>
     </item>
     
