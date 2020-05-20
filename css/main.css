@@ -106,12 +106,12 @@ a:active {
   font-weight: 500;
   color: #2E2E2E;
   padding: 40px 0px;
-  position: relative;
+  position: center;
 }
 
 .heading span {
   font-size: 45px;
-  color: #ff530a;
+  color: #bfff00;
   font-weight: 600;
 }
 
@@ -136,7 +136,7 @@ a:active {
 }
 
 .title span {
-  color: #FF5333;
+  color: #80ff00;
 }
 
 .before-border {
@@ -238,7 +238,7 @@ nav .block .navbar-default .navbar-nav>li>a:before {
 }
 
 nav .block .navbar-default .navbar-nav>li>a:hover:before {
-  background-color: #e94c3d;
+  background-color: #ace600;
   content: "";
   width: 100%;
 }
@@ -261,7 +261,7 @@ nav .block .navbar-default .navbar-nav>li.current>a:before {
   -o-transition: .3s all;
   transition: .3s all;
   width: 100%;
-  background-color: #e94c3d;
+  background-color: #ace600;
 }
 
 nav .block .navbar-default .navbar-nav>.active>a,
@@ -278,7 +278,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   bottom: 0px;
   width: 100%;
   height: 2px;
-  background: #FF5333;
+  background: #80ff00;
 }
 
 /*--
@@ -360,7 +360,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #blog .block ul li h3 a:hover {
-  color: #FF5333;
+  color: #80ff00;
 }
 
 
@@ -456,7 +456,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   float: right;
   padding: 28px 102.5px;
   border-radius: 0px;
-  background: #ff530a;
+  background: #bfff00;
   color: #fff;
   border: 1px solid transparent;
   text-transform: uppercase;
@@ -469,8 +469,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 
 #blog .block .btn-more-info:hover {
   background: transparent;
-  color: #ff530a;
-  border: 1px solid #ff530a;
+  color: #bfff00;
+  border: 1px solid #bfff00;
 }
 
 .blog-single-page .post-thumb {
@@ -559,8 +559,8 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   padding: 28px 105px;
   border-radius: 0px;
   background: none;
-  color: #FF4F02;
-  border: 1px solid #FF4F02;
+  color: #73E600;
+  border: 1px solid #73E600;
   font-size: 15px;
   text-transform: uppercase;
   font-weight: 600;
@@ -570,7 +570,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #price .block .pricing-list .btn:hover {
-  background: #ff530a;
+  background: #bfff00;
   color: #fff;
 }
 
@@ -721,7 +721,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #contact-us .block button {
-  background: #FF4F02;
+  background: #73E600;
   float: right;
   color: #fff;
   font-weight: 600;
@@ -760,7 +760,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block h3 span {
-  color: #FF4F02;
+  color: #73E600;
 }
 
 #footer .block .blog ul,
@@ -780,7 +780,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .gallary ul li h4 {
   padding-bottom: 10px;
   display: block;
-  color: #FF4F02;
+  color: #73E600;
 }
 
 #footer .block .blog ul li h4 i,
@@ -794,7 +794,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 #footer .block .blog ul li h4 a,
 #footer .block .info ul li h4 a,
 #footer .block .gallary ul li h4 a {
-  color: #FF4F02;
+  color: #73E600;
   font-size: 20px;
   font-weight: 600;
 }
@@ -813,7 +813,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link h3 span {
-  color: #FF4F02;
+  color: #73E600;
 }
 
 #footer .block .social-media-link ul li {
@@ -837,7 +837,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer .block .social-media-link ul li a:hover {
-  background: #FF4F02;
+  background: #73E600;
   color: #fff;
 }
 
@@ -859,7 +859,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #footer-bottom p a {
-  color: #FF4F02;
+  color: #73E600;
 }
 
 /* slider */
@@ -899,7 +899,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .slick-dots li.slick-active button {
-  background: #FF4F02;
+  background: #73E600;
 }
 
 .gallery-slider .slick-arrow {
@@ -942,11 +942,11 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   text-align: center;
   margin-right: 6px;
   font-weight: 700;
-  color: #FF4F02
+  color: #73E600
 }
 
 .pagination .page-item .page-link:hover {
-  background: #FF4F02;
+  background: #73E600;
   color: #fff
 }
 
@@ -956,7 +956,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 .pagination .page-item.active .page-link {
-  background: #FF4F02;
+  background: #73E600;
   color: #fff;
-  border-color: #FF4F02
+  border-color: #73E600
 }
