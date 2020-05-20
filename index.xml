@@ -6,54 +6,27 @@
     <description>Recent content on DuBa Pet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 26 Dec 2018 12:30:01 +0600</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 12:30:01 +0600</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Red Pepper Miso Wings 2</title>
-      <link>/red-pepper-miso-wings-2/</link>
-      <pubDate>Wed, 26 Dec 2018 12:30:01 +0600</pubDate>
+      <title>Nosso Whatsapp</title>
+      <link>/novo-whatsapp/</link>
+      <pubDate>Tue, 19 May 2020 12:30:01 +0600</pubDate>
       
-      <guid>/red-pepper-miso-wings-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>/novo-whatsapp/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>/red-pepper-miso-wings/</link>
-      <pubDate>Wed, 26 Dec 2018 12:28:47 +0600</pubDate>
+      <title>Novo endereço</title>
+      <link>/novo-endereco/</link>
+      <pubDate>Mon, 18 May 2020 12:30:01 +0600</pubDate>
       
-      <guid>/red-pepper-miso-wings/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Homestyle Chicken Pot Pie</title>
-      <link>/homestyle-chicken-pot-pie/</link>
-      <pubDate>Wed, 26 Dec 2018 12:23:10 +0600</pubDate>
-      
-      <guid>/homestyle-chicken-pot-pie/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Skillet Chicken with Potatoes</title>
-      <link>/restaurant/</link>
-      <pubDate>Wed, 26 Dec 2018 11:40:41 +0600</pubDate>
-      
-      <guid>/restaurant/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
-    </item>
-    
-    <item>
-      <title>Red Pepper Miso Wings</title>
-      <link>/my-first-post/</link>
-      <pubDate>Wed, 12 Dec 2018 04:28:21 +0600</pubDate>
-      
-      <guid>/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</description>
+      <guid>/novo-endereco/</guid>
+      <description>Já estamos atendendo em novo endereço. Marque um horário pro seu peludinho.</description>
     </item>
     
   </channel>
