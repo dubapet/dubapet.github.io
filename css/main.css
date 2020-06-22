@@ -393,6 +393,27 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   transition: all 0.8s ease-out;
 }
 
+/* Top left text */
+#blog .block ul li .top-left {
+  padding: 5px 10px 1px 10px;
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  font-size: 20px;
+  color: black;
+  background-color: white;
+  opacity: 0.9;
+}
+
+#blog .block ul li .top-left:hover {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+  color: #80ff00;
+  background-color: white;
+  opacity: 1;
+}
+
 #blog .block ul li .blog-img-2 {
   width: 50%;
   float: right;
