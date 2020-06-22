@@ -406,11 +406,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 #blog .block ul li .top-left:hover {
-  position: absolute;
-  top: 8px;
-  left: 16px;
   color: #80ff00;
-  background-color: white;
   opacity: 1;
 }
 
