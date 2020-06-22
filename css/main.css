@@ -394,7 +394,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
 }
 
 /* Top left text */
-#blog .block ul li .top-left {
+#blog .block .top-left {
   padding: 5px 10px 1px 10px;
   position: absolute;
   top: 8px;
@@ -405,7 +405,7 @@ nav .block .navbar-default .navbar-nav>.active>a:hover:before {
   opacity: 0.9;
 }
 
-#blog .block ul li .top-left:hover {
+#blog .block .top-left:hover {
   color: #80ff00;
   opacity: 1;
 }
