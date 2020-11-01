@@ -5,10 +5,6 @@
     <link>https://dubapet.com.br/categories/</link>
     <description>Recent content in Categories on DuBa Pet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    
-	<atom:link href="https://dubapet.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pt-br</language><atom:link href="https://dubapet.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

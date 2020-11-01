@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dubapet.com.br/</loc>
-    <lastmod>2020-07-01T12:13:19-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://dubapet.com.br/banho-e-tosa/</loc>
     <lastmod>2020-07-01T12:13:19-03:00</lastmod>
   </url>
@@ -29,6 +24,10 @@
   
   <url>
     <loc>https://dubapet.com.br/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://dubapet.com.br/</loc>
   </url>
   
   <url>

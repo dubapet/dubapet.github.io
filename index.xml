@@ -5,12 +5,7 @@
     <link>https://dubapet.com.br/</link>
     <description>Recent content on DuBa Pet</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 01 Jul 2020 12:13:19 -0300</lastBuildDate>
-    
-	<atom:link href="https://dubapet.com.br/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>pt-br</language><atom:link href="https://dubapet.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seu Pet merece o melhor banho e tosa</title>
       <link>https://dubapet.com.br/banho-e-tosa/</link>
